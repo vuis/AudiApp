@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Audi</string>
+    <string name="audi_u_hrv"> Audi</string>
+    <string name="prsten"> Uspjeh u znaku četiri prstena</string>
+    <string name="iskustvo">Za bolje korisničko iskustvo molimo unesite podatke</string>
+    <string name="modeli"> Modeli </string>
+    <string name="ikona">ikona</string>
+    <string name="news">Novosti</string>
+    <string name="about">O Audi-u</string>
+    <string name="audiLogo">audiLogo</string>
+    <string name="a1">A1</string>
+    <string name="a3">A3</string>
+    <string name="a4">A4</string>
+    <string name="a5">A5</string>
+    <string name="a6">A6</string>
+    <string name="a7">A7</string>
+    <string name="a8">A8</string>
+    <string name="q2">Q2</string>
+    <string name="q3">Q3</string>
+    <string name="q5">Q5</string>
+    <string name="q7">Q7</string>
+    <string name="tt">TT</string>
+    <string name="hrv">Audi u Hrvatskoj</string>
+    <string name="uspjeh">Za Vas gradimo automobile s uspjehom i strašću. Naši faktori uspjeha su naša otvorenost oduševljenju, naša kreativnost i naša spremnost na angažman. Želje i emocije naših kupaca određuju ono što činimo na putu prema vodećem mjestu u svijetu inovacija. Audi postavlja nove standarde - u smislu krilatice marke "Napredak kroz tehniku". </string>
+    <string name="uprava">Uprava:</string>
+    <string name="upravitelj">Franz Lohninger\nIvo Ivančević</string>
+    <string name="prodaja">Prodaja</string>
+    <string name="prodavatelj">Direktor prodaje: Vladimir Lipovac\nKontakt:</string>
+    <string name="kontakt"> audi@porschecroatia.hr</string>
+    <string name="postprodaja">Postprodaja</string>
+    <string name="direktor">Direktor postprodaje: Vicko Ljuban\nVoditelj servisne tehnike: Marko Blažević\nVoditelj prodaje dijelova: Ronald Bürgler </string>
+    <string name="adresa">Adresa</string>
+    <string name="adresa1">Porsche Croatia d.o.o.\nZagrebačka 117, 10410 Velika Gorica</string>
+    <string name="tel">Tel: </string>
+    <string name="tel1">+ 385 1 62 69 111 </string>
+    <string name="fax">Fax: </string>
+    <string name="fax1">+ 385 1 62 24 052  </string>
+    <string name="ime">Ime:</string>
+    <string name="prezime">Prezime:</string>
+    <string name="email">Email:</string>
+    <string name="grad">Odaberite najbliži grad:</string>
+    <string-array name="gradovi">
+        <item>Osijek</item>
+        <item>Zagreb</item>
+        <item>Varaždin</item>
+        <item>Čakovec</item>
+        <item>Rijeka</item>
+        <item>Pula</item>
+        <item>Zadar</item>
+        <item>Split</item>
+        <item>Dubrovnik</item>
+    </string-array>
+    <string name="spremi">Spremi</string>
+    <string name="zastupnici">Partneri</string>
+    <string name="odabraniGrad">u gradu koji ste odabrali</string>
+    <string name="partneri">nalaze se sljedeći zastupnici:</string>
+    <string name="eurodaus">Euro Daus d.d.</string>
+    <string name="edSt">21000 Split\nPut Mostina 1\nhttp://split.eurodaus.hr/</string>
+    <string name="edDu">20207 Mlini\nČibača, Tomislava Macana 4\nhttp://dubrovnik.eurodaus.hr/</string>
+    <string name="acSt">Audi centar split</string>
+    <string name="acStAdresa">21000 Split\nUlica Kralja Držislava 51\nhttp://www.kovacic.hr/</string>
+    <string name="porSt">Porsche Split</string>
+    <string name="porSttAdresa">21210 Solin\nSalonitanska 13\nhttp://split.porscheinterauto.hr/</string>
+    <string name="zubakVz">AutoZubak Varaždin </string>
+    <string name="zubakVzAdresa">42000 Varaždin\nVilka Novaka 50d\nhttp://varazdin.autozubak.hr/</string>
+    <string name="jasen">AC Jesenović d.o.o.</string>
+    <string name="jasenAdresa">40000 Čakovec\nObrtnička ulica 3\nhttp://www.ac-jesenovic.hr/</string>
+    <string name="ah">Auto Hrvatska Automobili d.o.o. - Zadar</string>
+    <string name="ahAdresa">23000 Zadar\nFranka Lisice 85\nhttp://zadar.ahautomobili.hr/</string>
+    <string name="zubakOS">AutoZubak Osijek</string>
+    <string name="zubakOsAdresa">31000 Osijek\nMartina Divalta 326\nhttp://osijek.autozubak.hr/</string>
+    <string name="pula">Burić AutoZubak Pula</string>
+    <string name="pulaAdresa">52100 Pula\nIndustrijska 2b\nhttp://pula.buricautozubak.hr//</string>
+    <string name="rmx">Remix d.o.o</string>
+    <string name="rmxAdresa">31000 Osijek\nSvetog Leopolda Bogdana Mandića 22\nhttp://www.remix.hr/</string>
+    <string name="rijeka">Porsche Rijeka</string>
+    <string name="rijekaAdresa">51000 Rijeka\nŠkurinjska cesta 2b\nhttp://rijeka.porscheinterauto.hr/</string>
+    <string name="porZg">Porsche Zagreb</string>
+    <string name="porZgAdresa">10000 Zagreb\nVelimira Škorpika 21 - 23\nhttp://www.porscheinterauto.hr/</string>
+    <string name="zubakZg">AutoZubak Zagreb</string>
+    <string name="zubakZgAdresa">10410 Velika Gorica\nZagrebačka 117\nhttp://www.autozubak.hr/</string>
+    <string name="ar">Autorad info d.o.o.</string>
+    <string name="arAdresa">10000 Zagreb\nMiramarski podvožnjak 15\nhttp://www.autoradinfo.hr/</string>
+    <string name="postavke">Postavke</string>
+    <string name="aboutApp">O aplikaciji</string>
+    <string name="audiApp">Audi aplikacija</string>
+    <string name="verzija">Verzija: 1.1</string>
+    <string name="obavijesti">Obavijesti</string>
+    <string name="vibracija">Vibracija</string>
+    <string name="blic">Led bljeskalica</string>
+    <string name="mreze">Potrošnja podataka</string>
+    <string name="enabled">Niska potrošnja</string>
+    <string name="popUp">Pop up obavijesti</string>
+    <string name="carPhoto">car_photo</string>
+
+</resources>

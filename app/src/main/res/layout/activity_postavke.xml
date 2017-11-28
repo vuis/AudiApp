@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/obavijesti"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/boja"
+        android:textSize="20sp" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:layout_alignEnd="@+id/textView13"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView13"
+        android:background="@color/boja" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view"
+        android:layout_marginTop="20dp"
+        android:text="@string/vibracija"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/boja"
+        android:textSize="18sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView14"
+        android:layout_centerHorizontal="true"
+        android:buttonTint="@color/boja" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/blic"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/boja"
+        android:textSize="18sp"
+        android:layout_below="@+id/checkBox"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView15"
+        android:layout_centerHorizontal="true"
+        android:buttonTint="@color/boja" />
+
+    <TextView
+        android:id="@+id/mreze"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mreze"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/boja"
+        android:textSize="20sp"
+        android:layout_below="@+id/checkBox4"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp"/>
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:layout_alignEnd="@id/mreze"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/mreze"
+        android:background="@color/boja" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view1"
+        android:layout_marginTop="20dp"
+        android:text="@string/enabled"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/boja"
+        android:textSize="18sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView16"
+        android:layout_centerHorizontal="true"
+        android:buttonTint="@color/boja" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/popUp"
+        android:id="@+id/obavijest"
+        android:textColor="@color/boja"
+        android:textSize="18sp"
+        android:layout_below="@+id/checkBox2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox4"
+        android:layout_alignTop="@+id/obavijest"
+        android:layout_alignStart="@+id/checkBox2"
+        android:buttonTint="@color/boja"/>
+
+</RelativeLayout>

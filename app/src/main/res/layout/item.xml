@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:background="@drawable/background1">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/car_photo"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="16dp"
+            android:contentDescription="@string/carPhoto" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/car_name"
+            android:layout_toRightOf="@+id/car_photo"
+            android:layout_alignParentTop="true"
+            android:textSize="20sp"
+            android:textColor="@color/boja"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/car_price"
+            android:layout_toRightOf="@+id/car_photo"
+            android:layout_below="@+id/car_name"
+            android:textColor="@color/boja"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/car_consumption"
+            android:layout_toRightOf="@+id/car_photo"
+            android:layout_below="@+id/car_price"
+            android:textColor="@color/boja"
+            />
+
+    </RelativeLayout>
+
+

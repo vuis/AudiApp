@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_postavke"
+        android:showAsAction="always"
+        android:title="@string/postavke" />
+    <item
+        android:id="@+id/menu_about"
+        android:showAsAction="always"
+        android:title="@string/aboutApp" />
+</menu>
